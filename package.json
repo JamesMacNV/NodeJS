@@ -1,0 +1,23 @@
+{
+  "name": "NodeJS",
+  "version": "1.0.0",
+  "description": "Various tests, experiments and exercices with NodeJS from \"https://www.udemy.com/course/the-complete-web-developer-zero-to-mastery/\"",
+  "main": "script.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JamesMacNV/NodeJS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JamesMacNV/NodeJS/issues"
+  },
+  "homepage": "https://github.com/JamesMacNV/NodeJS#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.1"
+  }
+}
